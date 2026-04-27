@@ -1,0 +1,6 @@
+## What is the technical term for the code on Line 1
+## Answer: Shebang (or hashbang)
+## What does it accomplish
+## Answer: Tells the operating system to execute the script using the Bash shell interpreter.
+## Explain lines 11 - 13. What are they and where are they used later in the script?
+## Answer: These are variables. They store file paths, make the script reusable and avoid hardcoding values
